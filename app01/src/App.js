@@ -21,6 +21,7 @@ function App() {
 
     <div>
       <h1>This is App.</h1>
+      validate correct repo
       <h2>message: {message}</h2>
     </div>
   )
